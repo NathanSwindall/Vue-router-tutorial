@@ -1,0 +1,2 @@
+// Install the latest version of vue router
+npm install --save vue-router@next
